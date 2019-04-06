@@ -6,7 +6,7 @@
 https://www4.baumann.at
 
 
-Infos about this project see folder "presentation".
+Infos about this project see folder "presentation"
 
 
 Infos about Infineon Security2Go StarterKit:
